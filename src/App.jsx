@@ -1,6 +1,3 @@
-import Navbar from "./components/Navbar";
-import PostList from "./components/PostList";
-import UserCard from "./components/UserCard";
 const POSTS = [
   {
     id: 1,
